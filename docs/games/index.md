@@ -1,6 +1,6 @@
 ---
-title: Creating a Project
-layout: Games
+title: Games
+layout: default
 ---
 
 TODO
