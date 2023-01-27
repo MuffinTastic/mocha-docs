@@ -1,6 +1,6 @@
 ---
 title: Creating a Project
-layout: default
+layout: Engine
 ---
 
 TODO
